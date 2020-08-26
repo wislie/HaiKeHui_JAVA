@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/btn_click"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="获取token" />
+
+    <Button
+        android:id="@+id/btn_estate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="获取小区" />
+
+    <Button
+        android:id="@+id/btn_building"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="获取栋" />
+
+    <Button
+        android:id="@+id/btn_unit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="获取单元" />
+
+    <Button
+        android:id="@+id/btn_room"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="获取房屋" />
+
+    <Button
+        android:id="@+id/btn_upload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="文件上传" />
+</LinearLayout>

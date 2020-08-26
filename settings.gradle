@@ -1,0 +1,4 @@
+rootProject.name='HaiKeHui'
+include ':app'
+include ':common-lib'
+//include ':rxjava3'
